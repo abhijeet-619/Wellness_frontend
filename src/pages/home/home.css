@@ -1,0 +1,15 @@
+.homepage{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.homepageExternal{
+    --tw-text-opacity: 1;
+    color: rgb(0 0 0 / var(--tw-text-opacity));
+    margin-top: 30%;
+    font-size: 2.9em;
+    margin-left: 15%;
+}
+.imgmain{
+    margin: 5px;
+    margin-top: 8%;
+}

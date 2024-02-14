@@ -1,0 +1,15 @@
+.bgImg{
+  height: 100vh;
+  position: absolute;
+  max-width: 77%;
+  border-top-right-radius: 100%;
+  opacity: 0.5;
+  z-index: -1;
+}
+.navName{
+  transition-duration: 300ms;
+  transition-timing-function: linear;
+}
+.navName:hover{
+  font-weight: 700;
+}
